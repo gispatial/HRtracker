@@ -31,10 +31,10 @@ Manage the departments, roles and employees in companies to keep track of curren
   - Check the total salaries of each department
 - Department and role's name should be unique.
 
-## 🛑 Limitation
+## Limitation
 
 You can insert multiple employees having the same full name but it's not recommended. This app's database is structured by utilizing mostly names not unique keys. So duplicated names may cause an error or unintended consequences when manipulating their data.
 
-## 🌟 Screenshot.
+## Screenshot.
 
 ![screenshot](demo.png)
